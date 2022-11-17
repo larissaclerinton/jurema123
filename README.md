@@ -30,6 +30,14 @@
 				<li class="itens">Profissionais Qualificados</li>
 			</ul>
 			<img src="beneficios.jpg" class="imagembeneficios">
+			
+			<h1>vestido preto curto sem manga 
+			<img src="file:///tmp/guest-e7p2qe/%C3%81rea%20de%20Trabalho/2-main-cryptographic-moda-malha-ruched-mini-vestido-sem-mangas-festa-clube-noturno-2020-vestido-de-vero-sexy-vestidos-sem-costas-ver-atravs1-8cff27bf69ab08dfb016100804423544-1024-1024.png"
+        </div>
+    <style>
+	    body{
+	    	background: light lightpink;
+
         </div>
 	</body>
 </html>
