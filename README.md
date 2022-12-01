@@ -32,11 +32,12 @@
 			<img src="beneficios.jpg" class="imagembeneficios">
 			
 			<h1>vestido preto curto sem manga 
-			<img src="file:///tmp/guest-e7p2qe/%C3%81rea%20de%20Trabalho/2-main-cryptographic-moda-malha-ruched-mini-vestido-sem-mangas-festa-clube-noturno-2020-vestido-de-vero-sexy-vestidos-sem-costas-ver-atravs1-8cff27bf69ab08dfb016100804423544-1024-1024.png"
+			  <img src="file:///tmp/guest-e7p2qe/%C3%81rea%20de%20Trabalho/2-main-cryptographic-moda-malha-ruched-mini-vestido-sem-mangas-festa-clube-noturno-2020-vestido-de-vero-sexy-vestidos-sem-costas-ver-atravs1-8cff27bf69ab08dfb016100804423544-1024-1024.png"
+            <img src="https://www.google.com/search?q=vestidos+shein&tbm=isch&ved=2ahUKEwiameXrxNj7AhWrLLkGHYAlBz4Q2-cCegQIABAA&oq=vestidos+shein&gs_lcp=CgNpbWcQA1DoBFjXGmDwHWgAcAB4AIABuAOIAbgDkgEDNC0xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=xK2IY5qnFavZ5OUPgMuc8AM&bih=651&biw=1358&safe=active#imgrc=pnqxORp-HdkR5M">
         </div>
     <style>
-	    body{
-	    	background: light lightpink;
+        body{
+            background-color: bisque;
 
         </div>
 	</body>
